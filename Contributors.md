@@ -9,6 +9,7 @@
 - [Shann Span](https://github.com/Shannspan)
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Emilha de Souza](https://github.com/emilha-mg)
+- [Manav-6969](https://github.com/Manav12-12)
 - [Alec Smith](https://github.com/sharktankful)
 - [Abstaina Ephraim](https://github.com/Abstaina44)
 - [Marko Cuk](https://github.com/MarkoCuk54)
